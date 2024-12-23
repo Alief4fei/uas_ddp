@@ -1,0 +1,11 @@
+Apple M4 is a series of ARM-based system on a chip (SoC) designed by Apple Inc., part of the Apple silicon series, including a central processing unit (CPU), a graphics processing unit (GPU), a neural processing unit (NPU), and a digital signal processor (DSP). The M4 chip was introduced in May 2024 for the iPad Pro (7th generation), and is the fourth generation of the M series Apple silicon architecture, succeeding the Apple M3.[3][4][5] It was followed by the professional-focused M4 Pro and M4 Max in October 2024.[6]
+
+The M4 series is built upon TSMC's second-generation 3-nanometer process and contains 28 billion transistors.[7] 
+
+The base M4 features a 10-core design made up of four performance cores and six efficiency cores (with one performance core disabled on binned models). The SoC also includes a 10-core GPU (with hardware-accelerated ray tracing, dynamic caching, and mesh shading introduced with the M3), as well as a 16-core NPU.[8]
+
+The M4 Neural Engine has been significantly improved compared to its predecessor, with the advertised capability to perform up to 38 trillion operations per second, claimed to be more than double the advertised performance of the M3. The M4 NPU performs over 60× faster than the A11 Bionic, and is approximately 3× faster than the original M1.[9]
+
+The M4 is packaged with LPDDR5X unified memory, supporting 120GB/sec of memory bandwidth. The SoC is currently offered in 8GB, 16GB, 24GB, and 32GB configurations. It is also Apple's first SoC to use the ARMv9 CPU architecture (specifically ARMv9.2-A).[10][3] 
+
+The M4 Pro features an up to 14-core CPU, with 10 performance cores and 4 efficiency cores, along with up to a 20-core GPU that Apple claims is twice as powerful as that in the M4 when used in the corresponding MacBook Pro. The M4 Pro is available with up to 64GB unified memory (Mac Mini) with a theoretical maximum bandwidth of 273GB/sec.[11]

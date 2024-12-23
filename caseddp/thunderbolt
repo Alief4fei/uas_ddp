@@ -1,0 +1,13 @@
+Prior to USB4, Thunderbolt provided a way to dynamically share bandwidth between multiple DP and PCIe connections over a single cable. Thunderbolt originally used the mDP connector and was only backward compatible to DP connections and did not support power transfer.
+
+The introduction of the Type-C connector in 2014 provided a connector that could support both USB data connectivity, power transfer as well as DP connections. It also allowed the static sharing of bandwidth between DP and USB connections over the same cable.
+
+Thunderbolt 3 switched over to using the new Type-C connector and also added backwards compatibility for USB connections and power transfer features.
+
+USB4 was announced in March 2019 by the USB Promoter Group.[8][9] The first version of the USB4 specification, released 29 August 2019, is named "Universal Serial Bus 4" or "USB4". Several news reports before the release of that version sometime use the wrong terminology "USB 4.0" and "USB 4".[10][11]
+
+Goals stated in the USB4 specification are increasing bandwidth, helping to converge the USB-C connector ecosystem, and "minimize end-user confusion". Some of the key areas to achieve this are using a single USB-C connector type, while retaining compatibility with existing USB and Thunderbolt products.[12]
+
+On 18 October 2022 the USB Promoter Group released the USB4 Version 2.0 specification.[13][14] It added 80 Gbit/s signalling rate with optionally asymmetric signaling, a new, optional alternative to the existing "USB3 Gen T tunneling", removed PCIe overhead limitations and updated the support of DisplayPort to the then current Version 2.1.
+
+Around the release of the new USB4 2.0 specification, USB-IF also mandated new logos and marketing names to simplify representing the maximum supported signalling rates and wattages to consumers.[15] 

@@ -1,0 +1,19 @@
+GraphQL is a data query and manipulation language for APIs that allows a client to specify what data it needs ("declarative data fetching"). A GraphQL server can fetch data from separate sources for a single client query and present the results in a unified graph.[2] It is not tied to any specific database or storage engine.
+
+There are several open-source runtime engines available for GraphQL.
+
+Facebook started GraphQL development in 2012 and released a draft specification and reference implementation as open source in 2015.[3] In 2018, GraphQL was moved to the newly established GraphQL Foundation, hosted by the non-profit Linux Foundation.[4][5] 
+
+On 9 February 2018, the GraphQL Schema Definition Language became part of the specification.[6]
+
+Many popular public APIs adopted GraphQL as the default way to access them. These include public APIs of Facebook, GitHub, Yelp, Shopify and Google Directions API.[7] 
+
+GraphQL supports reading, writing (mutating), and subscribing to changes to data (realtime updates – commonly implemented using WebSockets).[8] A GraphQL service is created by defining types with fields, then providing functions to resolve the data for each field. The types and fields make up what is known as the schema definition. The functions that retrieve and map the data are called resolvers.[9]
+
+After being validated against the schema, a GraphQL query is executed by the server. The server returns a result that mirrors the shape of the original query, typically as JSON.[10]
+
+The root type of a GraphQL schema, Query by default, contains all of the fields that can be queried. Other types define the objects and fields that the GraphQL server can return. There are several base types, called scalars, to represent things like strings, numbers, and IDs.
+
+Fields are defined as nullable by default, and a trailing exclamation mark can be used to make a field non-nullable (required). A field can be defined as a list by wrapping the field's type in square brackets (for example, authors: [String]).[11]
+
+
